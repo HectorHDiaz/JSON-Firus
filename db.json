@@ -1,54 +1,85 @@
 {
   "mascotas": [
+[
+    
+    {
+        "id"                : 0,
+        "imagenMascota"     : "http://cdn.shopify.com/s/files/1/0268/6861/files/2019-01-25-11-59-18_da19a1e3-7184-4a84-bfbc-bbc0b4fbdc43_480x480.jpg?v=1620837056",
+        "especieMascota"    : "Perro",
+        "generoMascota"     : "Macho",
+        "edadMascota"       : 15,
+        "descripcionMascota": "Nuestro primer perro rescatado de la calle. Tierno y tonton, pero muy leal y cariñoso",
+        "estaPerdido"       : false,
+        "nombreMascota"     : "Patita",
+        "owner"             : "Hector Diaz"
+    },
     {
         "id"                : 1,
-        "imagenMascota"     : "https://cumbrepuebloscop20.org/wp-content/uploads/2018/09/Gato-Siam%C3%A9s-2.jpg",
+        "imagenMascota"     : "https://i.chzbgr.com/full/9028931072/hDE864264/facebook-profile-silhouette-of-a-playful-cat",
+        "especieMascota"    : "Gato",
+        "generoMascota"     : "Hembra",
+        "edadMascota"       : 20,
+        "descripcionMascota": "La primera gata de la casa y fué la mejor! Es de River",
+        "estaPerdido"       : false,
+        "nombreMascota"     : "Minina",
+        "owner"             : "Laura Caceres"
+    },
+    {
+        "id"                : 2,
+        "imagenMascota"     : "https://i.chzbgr.com/full/9028931072/hDE864264/facebook-profile-silhouette-of-a-playful-cat",
+        "especieMascota"    : "Gato",
+        "generoMascota"     : "Macho",
+        "edadMascota"       : 14,
+        "descripcionMascota": "Se perdió un día. Esperemos que siga bien. Es muy cariñoso e inteligente",
         "estaPerdido"       : true,
         "nombreMascota"     : "Matute",
         "owner"             : "Hector Diaz"
     },
     {
-        "id"                : 2,
-        "imagenMascota"     : "https://static.affinity-petcare.com/advance/cdn/farfuture/d0MI-K7A8xUxOkivVj6sDFCFui9jfFf_BDcbuPvjywk/drupal-cache:qvko3p/sites/default/files/field/image/articulo25_main2x_0.jpg",
-        "estaPerdido"       : false,
-        "nombreMascota"     : "Minina",
-        "owner"             : "Hector Diaz"
-    },
-    {
         "id"                : 3,
-        "imagenMascota"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwj9mRwVw-553CyqgTVzz1mc1bPitGHVEN1Q&usqp=CAU",
+        "imagenMascota"     : "https://i.chzbgr.com/full/9028931072/hDE864264/facebook-profile-silhouette-of-a-playful-cat",
+        "especieMascota"    : "Gato",
+        "generoMascota"     : "Hembra",
+        "edadMascota"       : 18,
+        "descripcionMascota": "Ella sigue siendo fuerte, cariñosa y fiel. Tambien es de River",
         "estaPerdido"       : false,
         "nombreMascota"     : "Monina",
         "owner"             : "Hector Diaz"
     },
     {
-        "id"                : 2,
-        "imagenMascota"     : "https://static.affinity-petcare.com/advance/cdn/farfuture/d0MI-K7A8xUxOkivVj6sDFCFui9jfFf_BDcbuPvjywk/drupal-cache:qvko3p/sites/default/files/field/image/articulo25_main2x_0.jpg",
+        "id"                : 4,
+        "imagenMascota"     : "https://i.chzbgr.com/full/9028931072/hDE864264/facebook-profile-silhouette-of-a-playful-cat",
+        "especieMascota"    : "Gato",
+        "generoMascota"     : "Macho",
+        "edadMascota"       : 23,
+        "descripcionMascota": "Gato Alfa, Obero, mea todo lo que encuentra. Es igual a Nacho Scocco",
         "estaPerdido"       : false,
-        "nombreMascota"     : "Minina",
+        "nombreMascota"     : "Loki",
         "owner"             : "Hector Diaz"
     },
     {
-        "id"                : 2,
-        "imagenMascota"     : "https://static.affinity-petcare.com/advance/cdn/farfuture/d0MI-K7A8xUxOkivVj6sDFCFui9jfFf_BDcbuPvjywk/drupal-cache:qvko3p/sites/default/files/field/image/articulo25_main2x_0.jpg",
-        "estaPerdido"       : false,
-        "nombreMascota"     : "Minina",
-        "owner"             : "Hector Diaz"
-    },
-    {
-        "id"                : 2,
-        "imagenMascota"     : "https://static.affinity-petcare.com/advance/cdn/farfuture/d0MI-K7A8xUxOkivVj6sDFCFui9jfFf_BDcbuPvjywk/drupal-cache:qvko3p/sites/default/files/field/image/articulo25_main2x_0.jpg",
-        "estaPerdido"       : false,
-        "nombreMascota"     : "Minina",
-        "owner"             : "Hector Diaz"
-    },
-    {
-        "id"                : 2,
-        "imagenMascota"     : "https://static.affinity-petcare.com/advance/cdn/farfuture/d0MI-K7A8xUxOkivVj6sDFCFui9jfFf_BDcbuPvjywk/drupal-cache:qvko3p/sites/default/files/field/image/articulo25_main2x_0.jpg",
-        "estaPerdido"       : false,
-        "nombreMascota"     : "Minina",
-        "owner"             : "Hector Diaz"
-    }
+          "id"                : 5,
+          "imagenMascota"     : "https://i.chzbgr.com/full/9028931072/hDE864264/facebook-profile-silhouette-of-a-playful-cat",
+          "especieMascota"    : "Gato",
+          "generoMascota"     : "Macho",
+          "edadMascota"       : 8,
+          "descripcionMascota": "Miedoso y timido. Adoptado de la calle, se cuida mucho pero es muy cariñoso. Tiene otra casa también.",
+          "estaPerdido"       : false,
+          "nombreMascota"     : "Simba",
+          "owner"             : "Hector Diaz"
+     },
+     {
+          "id"                : 6,
+          "imagenMascota"     : "https://i.chzbgr.com/full/9028931072/hDE864264/facebook-profile-silhouette-of-a-playful-cat",
+          "especieMascota"    : "Gato",
+          "generoMascota"     : "Macho",
+          "edadMascota"       : 8,
+          "descripcionMascota": "Gato negro, gordo, tonto y feo. Nah, mentira. Es orgulloso por ser el único que entra a la casa",
+          "estaPerdido"       : false,
+          "nombreMascota"     : "Tchaikovsky",
+          "owner"             : "Hector Diaz"
+     }
+]
   ],
   "profile": {
     "name": "Hector Diaz"
