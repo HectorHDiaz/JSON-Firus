@@ -2,15 +2,21 @@
   "usuarios":[
               {
                 "name": "Hector Diaz",
-                "pass": "1234"
+                "user": "Atonomo.4s",
+                "pass": "1234",
+                "email": "atonomo.4s@gmail.com"
               },
               {
                 "name": "Tomas Diaz",
-                "pass": "4321"
+                "user": "Tomy.8k",
+                "pass": "4321",
+                "email": "tomy.diaz.8k@gmail.com"
               },
               {
-                "name": "Laura Caceres",
-                "pass": "0000"
+                "name": "Sara Herrera",
+                "user": "Herrera.Sara",
+                "pass": "0000",
+                "email": "herrera.sara.n@gmail.com"
               }
         ],
   "mascotas": [
@@ -35,7 +41,7 @@
                   "descripcionMascota": "La primera gata de la casa y fué la mejor! Es de River",
                   "estaPerdido"       : false,
                   "nombreMascota"     : "Minina",
-                  "owner"             : "Laura Caceres"
+                  "owner"             : "Sara Herrera"
               },
               {
                   "id"                : 2,
