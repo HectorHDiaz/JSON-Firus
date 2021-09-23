@@ -1,7 +1,6 @@
 {
   "mascotas": [
-[
-    
+
     {
         "id"                : 0,
         "imagenMascota"     : "http://cdn.shopify.com/s/files/1/0268/6861/files/2019-01-25-11-59-18_da19a1e3-7184-4a84-bfbc-bbc0b4fbdc43_480x480.jpg?v=1620837056",
@@ -79,7 +78,6 @@
           "nombreMascota"     : "Tchaikovsky",
           "owner"             : "Hector Diaz"
      }
-]
   ],
   "profile": {
     "name": "Hector Diaz"
