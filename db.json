@@ -1,13 +1,16 @@
 {
   "usuarios":[
               {
-                "name": "Hector Diaz"
+                "name": "Hector Diaz",
+                "pass": "1234"
               },
               {
-                "name": "Tomas Diaz"
+                "name": "Tomas Diaz",
+                "pass": "4321"
               },
               {
-                "name": "Laura Caceres"
+                "name": "Laura Caceres",
+                "pass": "0000"
               }
         ],
   "mascotas": [
