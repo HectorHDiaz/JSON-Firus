@@ -40,7 +40,7 @@
         "especieMascota"    : "Gato",
         "generoMascota"     : "Hembra",
         "edadMascota"       : 18,
-        "descripcionMascota": "Ella sigue siendo fuerte, cariñosa y fiel. Tambien es de River",
+        "descripcionMascota": "Ella sigue siendo fuerte, cariñosa y fiel. Maulla y sabe pedir la comida",
         "estaPerdido"       : false,
         "nombreMascota"     : "Monina",
         "owner"             : "Hector Diaz"
@@ -51,7 +51,7 @@
         "especieMascota"    : "Gato",
         "generoMascota"     : "Macho",
         "edadMascota"       : 23,
-        "descripcionMascota": "Gato Alfa, Obero, mea todo lo que encuentra. Es igual a Nacho Scocco",
+        "descripcionMascota": "Gato Alfa, Obero, cabulero para pedir comida y mea todo lo que encuentra. Es igual a Nacho Scocco",
         "estaPerdido"       : false,
         "nombreMascota"     : "Loki",
         "owner"             : "Hector Diaz"
@@ -73,7 +73,7 @@
           "especieMascota"    : "Gato",
           "generoMascota"     : "Macho",
           "edadMascota"       : 8,
-          "descripcionMascota": "Gato negro, gordo, tonto y feo. Nah, mentira. Es orgulloso por ser el único que entra a la casa",
+          "descripcionMascota": "Gato negro, gordo, tonto y feo. Nah, mentira. Es orgulloso por ser el único que entra a la casa. Es de Boca",
           "estaPerdido"       : false,
           "nombreMascota"     : "Tchaikovsky",
           "owner"             : "Hector Diaz"
