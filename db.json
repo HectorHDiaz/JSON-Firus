@@ -32,11 +32,5 @@
         "estaPerdido"       : false,
         "nombreMascota"     : "Simba",
         "owner"             : "Hector Diaz"
-    },{
-        "id"                : 6,
-        "imagenMascota"     : "https://lh3.googleusercontent.com/waG2JMlobi1Zn22ZXt-EjDqpHeoYM5aGHYKZlUSRKDs2_dJ53lhoBXZs7gnnqiHEDXyF86zYfOBgyASgeItUzgDVMe7vJfEIaNKwqkgXdQKUOZoSj8Xw0z_1DOrK1c5QHWDslsj_ECs3A7iiVFRQE2Bg7HicZxlCEDBLJLMC_doT2SNlsR2_-Tq2Jt9Ll_55dIl3D64T_GAP0YC0y9C1jwgbzfXJtqlrxr5tFxmJmqOfz3A_cCMTibNvDEePloKgALRikJ75JPazUeAI0vZmw38GwzvD948wtnwlu9uw9oJ04x2oecTSYim9yf3beKsNX_155wYuLV868OmTRGDmRVu4AYdvsU5C6M8sL1MUypyBHDikwwOo32QdnOiU72Jto4akuXuk914upmCWYCozJbQBOY_QKhRAbDofVYbNRyW3DxY4KYn370xQEONh9N2ZJwu202ZxcUhDnJU8bR9QIdeGWZlciLeRZpgSf5Bi-etb1u-0acyjRmSC6SX2t4uQ_cybzcp93gGtAl4YIO1Bu8dtvaUsErEe3Xk8qlTR8xkGUrtoqkojNlUUfvtnw3MD1ynBmCZj3XG8GO7-N6BG-bWBGlEFDDhRV6YaHVxyrbMg5qzIJKR5iwA_wnbjUswhvUgWSHi3ScoQ_OrDFVLSDQsfKc9obOF8tC3zyC5XLCaPz6ND7jnNg8GEqXvJfSshrw-0pY_CR-agUPf2Pw=w448-h969-no?authuser=0",
-        "estaPerdido"       : false,
-        "nombreMascota"     : "Tchaikovsky",
-        "owner"             : "Hector Diaz"
     }
 ]
