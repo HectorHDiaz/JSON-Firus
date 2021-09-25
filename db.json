@@ -143,17 +143,6 @@
                     "owner"             : "Tomas Diaz"
                },
                {
-                    "id"                : 11,
-                    "imagenMascota"     : "https://i.imgur.com/ko0xB2c.jpeg",
-                    "especieMascota"    : "Perro",
-                    "generoMascota"     : "Macho",
-                    "edadMascota"       : 3,
-                    "descripcionMascota": "Cerulio",
-                    "estaPerdido"       : false,
-                    "nombreMascota"     : "Cerulio",
-                    "owner"             : "Tomas Diaz"
-               },
-               {
                     "id"                : 12,
                     "imagenMascota"     : "https://i.imgur.com/zrLNzMF.jpeg",
                     "especieMascota"    : "Perro",
