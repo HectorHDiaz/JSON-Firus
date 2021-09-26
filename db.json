@@ -1,25 +1,43 @@
 {
   "usuarios":[
               {
+                "id":"0",
                 "name": "Hector Diaz",
                 "user": "Atonomo.4s",
                 "pass": "1234",
                 "email": "atonomo.4s@gmail.com",
-                "imageURL":"https://i.imgur.com/5xb8cem.jpg"
+                "imageURL":"https://i.imgur.com/5xb8cem.jpg",
+                "desc":"Respetuoso, sincero y empático. Sueño crear la plataforma capaz de unir a las personas involucradas en los animales necesitados de ayuda y amor. ,
+                "location":"San Fernando, Buenos Aires",
+                "bday":"9 de Abril, 1997",
+                "role":"Administrador",
+                "joinDate":"Marzo 2017"
               },
               {
+                "id":"1",
                 "name": "Tomas Diaz",
                 "user": "Tomy.8k",
                 "pass": "4321",
                 "email": "tomy.diaz.8k@gmail.com",
-                "imageURL":"https://i.imgur.com/E68DCNE.jpg"
+                "imageURL":"https://i.imgur.com/E68DCNE.jpg",
+                "desc":"Soy un capo de la vida y el Diseño Gráfico, obvio que me importan muucho los animales en necesidad. Goomy",
+                "location":"Saitama, Japón",
+                "bday":"2 de Marzo, 2000",
+                "role":"Moderador",
+                "joinDate":"Octubre 2018"
               },
               {
+                "id":"2",
                 "name": "Sara Herrera",
                 "user": "Herrera.Sara",
                 "pass": "0000",
                 "email": "herrera.sara.n@gmail.com",
-                "imageURL":"https://i.imgur.com/CjYtfWw.jpg"
+                "imageURL":"https://i.imgur.com/CjYtfWw.jpg",
+                "desc":"Casada y Madre de 4 hijos y 4 gatos. A lo largo de los años tuve mas de 50 mascotas.",
+                "location":"San Fernando, Buenos Aires",
+                "bday":"31 de Octubre, 1961",
+                "role":"Asistente",
+                "joinDate":"Diciembre 2018"
               }
         ],
   "mascotas": [
