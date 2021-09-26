@@ -142,17 +142,6 @@
                     "owner"             : "Tomas Diaz"
                },
                {
-                    "id"                : 9,
-                    "imagenMascota"     : "https://i.imgur.com/YhneWNt.jpeg",
-                    "especieMascota"    : "Perro",
-                    "generoMascota"     : "Macho",
-                    "edadMascota"       : 5,
-                    "descripcionMascota": "Cache, cache, cache, cache no cache no cache no.",
-                    "estaPerdido"       : false,
-                    "nombreMascota"     : "Cache",
-                    "owner"             : "Tomas Diaz"
-               },
-               {
                     "id"                : 10,
                     "imagenMascota"     : "https://i.imgur.com/fnCCjZJ.jpeg",
                     "especieMascota"    : "Perro",
