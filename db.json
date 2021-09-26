@@ -109,7 +109,7 @@
                     "descripcionMascota": "Miedoso y timido. Adoptado de la calle, se cuida mucho pero es muy cariñoso. Tiene otra casa también.",
                     "estaPerdido"       : false,
                     "nombreMascota"     : "Simba",
-                    "owner"             : "Hector Diaz"
+                    "owner"             : "Tomas Diaz"
                },
                {
                     "id"                : 6,
@@ -164,7 +164,7 @@
                     "descripcionMascota": "Ponchi",
                     "estaPerdido"       : false,
                     "nombreMascota"     : "Ponchi",
-                    "owner"             : "Sara Herrera"
+                    "owner"             : "Tomas Diaz"
                },
                    {
                     "id"                : 15,
@@ -186,7 +186,7 @@
                     "descripcionMascota": "Wendy",
                     "estaPerdido"       : false,
                     "nombreMascota"     : "Wendy",
-                    "owner"             : "Sara Herrera"
+                    "owner"             : "Tomas Diaz"
                }
         ]
 }
