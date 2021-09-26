@@ -142,17 +142,6 @@
                     "owner"             : "Tomas Diaz"
                },
                {
-                    "id"                : 10,
-                    "imagenMascota"     : "https://i.imgur.com/fnCCjZJ.jpeg",
-                    "especieMascota"    : "Perro",
-                    "generoMascota"     : "Macho",
-                    "edadMascota"       : 7,
-                    "descripcionMascota": "Cascote",
-                    "estaPerdido"       : false,
-                    "nombreMascota"     : "Cascote",
-                    "owner"             : "Tomas Diaz"
-               },
-               {
                     "id"                : 12,
                     "imagenMascota"     : "https://i.imgur.com/zrLNzMF.jpeg",
                     "especieMascota"    : "Perro",
