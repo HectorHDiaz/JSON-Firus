@@ -6,13 +6,13 @@
                 "user": "Atonomo.4s",
                 "pass": "1234",
                 "email": "atonomo.4s@gmail.com",
-                "imageURL":"https://i.imgur.com/B2n1WHV.jpg",
-                "headerimage":"https://i.imgur.com/a0jpl1D.jpg",
-                "desc":"Respetuoso, sincero y empático. Sueño crear la plataforma capaz de unir a las personas involucradas en los animales necesitados de ayuda y amor.",
-                "location":"San Fernando, Buenos Aires",
-                "bday":"9 de Abril, 1997",
-                "role":"Administrador",
-                "joinDate":"Marzo 2017"
+                "imageURL": "https://i.imgur.com/B2n1WHV.jpg",
+                "headerimage": "https://i.imgur.com/a0jpl1D.jpg",
+                "desc": "Respetuoso, sincero y empático. Sueño crear la plataforma capaz de unir a las personas involucradas en los animales necesitados de ayuda y amor.",
+                "location": "San Fernando, Buenos Aires",
+                "bday": "9 de Abril, 1997",
+                "role": "Administrador",
+                "joinDate": "Marzo 2017"
               },
               {
                 "id":"1",
@@ -20,13 +20,13 @@
                 "user": "Tomy.8k",
                 "pass": "4321",
                 "email": "tomy.diaz.8k@gmail.com",
-                "imageURL":"https://i.imgur.com/E68DCNE.jpg",
-                "headerimage":"https://i.imgur.com/FFr0lNB.jpg",
-                "desc":"Soy un capo de la vida y el Diseño Gráfico, obvio que me importan muucho los animales en necesidad. Goomy",
-                "location":"Saitama, Japón",
-                "bday":"2 de Marzo, 2000",
-                "role":"Moderador",
-                "joinDate":"Octubre 2018"
+                "imageURL": "https://i.imgur.com/E68DCNE.jpg",
+                "headerimage": "https://i.imgur.com/FFr0lNB.jpg",
+                "desc": "Soy un capo de la vida y el Diseño Gráfico, obvio que me importan muucho los animales en necesidad. Goomy",
+                "location": "Saitama, Japón",
+                "bday": "2 de Marzo, 2000",
+                "role": "Moderador",
+                "joinDate": "Octubre 2018"
               },
               {
                 "id":"2",
