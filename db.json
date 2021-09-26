@@ -175,17 +175,6 @@
                     "owner"             : "Sara Herrera"
                },
                {
-                    "id"                : 15,
-                    "imagenMascota"     : "https://i.imgur.com/au0BJek.jpeg",
-                    "especieMascota"    : "Perro",
-                    "generoMascota"     : "Hembra",
-                    "edadMascota"       : 13,
-                    "descripcionMascota": "Violetita",
-                    "estaPerdido"       : false,
-                    "nombreMascota"     : "Violeta",
-                    "owner"             : "Sara Herrera"
-               },
-               {
                     "id"                : 16,
                     "imagenMascota"     : "https://i.imgur.com/YVWuzPj.jpeg",
                     "especieMascota"    : "Perro",
