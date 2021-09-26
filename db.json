@@ -131,17 +131,6 @@
                     "owner"             : "Tomas Diaz"
                },
                {
-                    "id"                : 8,
-                    "imagenMascota"     : "https://i.imgur.com/fP3oJkA.png",
-                    "especieMascota"    : "Perro",
-                    "generoMascota"     : "Macho",
-                    "edadMascota"       : 10,
-                    "descripcionMascota": "Lo conocimos en la obra del nuevo Hospital de San Fernando. Es re compañero y muy amigable",
-                    "estaPerdido"       : false,
-                    "nombreMascota"     : "Beto",
-                    "owner"             : "Tomas Diaz"
-               },
-               {
                     "id"                : 12,
                     "imagenMascota"     : "https://i.imgur.com/zrLNzMF.jpeg",
                     "especieMascota"    : "Perro",
