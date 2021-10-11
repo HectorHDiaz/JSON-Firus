@@ -54,7 +54,7 @@
                   "descripcion": "Nuestro primer perro rescatado de la calle. Tierno y tonton, pero muy leal y cariñoso",
                   "estaPerdido"       : "Perdido",
                   "nombre"     : "Patita",
-                  "owner"             : "Hector Diaz"
+                  "owner"             : 0
               },
               {
                   "id"                : 1,
@@ -65,7 +65,7 @@
                   "descripcion": "La primera gata de la casa y fué la mejor! Es de River",
                   "estaPerdido"       : "Perdido",
                   "nombre"     : "Minina",
-                  "owner"             : "Sara Herrera"
+                  "owner"             : 2
               },
               {
                   "id"                : 2,
@@ -76,7 +76,7 @@
                   "descripcion": "Se perdió un día. Esperemos que siga bien. Es muy cariñoso e inteligente",
                   "estaPerdido"       : "Perdido",
                   "nombre"     : "Matute",
-                  "owner"             : "Hector Diaz"
+                  "owner"             : 0
               },
               {
                   "id"                : 3,
@@ -87,7 +87,7 @@
                   "descripcion": "Ella sigue siendo fuerte, cariñosa y fiel. Maulla y sabe pedir la comida",
                   "estaPerdido"       : "Adoptado",
                   "nombre"     : "Monina",
-                  "owner"             : "Hector Diaz"
+                  "owner"             : 0
               },
               {
                   "id"                : 4,
@@ -98,7 +98,7 @@
                   "descripcion": "Gato Alfa, Obero, cabulero para pedir comida y mea todo lo que encuentra. Es igual a Nacho Scocco",
                   "estaPerdido"       : "Adoptado",
                   "nombre"     : "Loki",
-                  "owner"             : "Hector Diaz"
+                  "owner"             : 0
               },
               {
                     "id"                : 5,
@@ -109,7 +109,7 @@
                     "descripcion": "Miedoso y timido. Adoptado de la calle, se cuida mucho pero es muy cariñoso. Tiene otra casa también.",
                     "estaPerdido"       : "Adoptado",
                     "nombre"     : "Simba",
-                    "owner"             : "Tomas Diaz"
+                    "owner"             : 1
                },
                {
                     "id"                : 6,
@@ -120,7 +120,7 @@
                     "descripcion": "Gato negro, gordo, tonto y feo. Nah, mentira. Es orgulloso por ser el único que entra a la casa. Es de Boca",
                     "estaPerdido"       : "Adoptado",
                     "nombre"     : "Tchaikovsky",
-                    "owner"             : "Tomas Diaz"
+                    "owner"             : 1
                },
                {
                     "id"                : 7,
@@ -129,9 +129,9 @@
                     "genero"     : "Macho",
                     "edad"       : "Cachorro",
                     "descripcion": "Del espacio le llegó algo muy especial, y lo atrapó y todos sus secretos el sabrá. Con superpoderes el ahora es BEN10",
-                    "estaPerdido"       : "Perdido",
+                    "estaPerdido"       : "Adopcion",
                     "nombre"     : "Ben10",
-                    "owner"             : "Tomas Diaz"
+                    "owner"             : 1
                },
                {
                     "id"                : 12,
@@ -142,7 +142,7 @@
                     "descripcion": "GROGUUU",
                     "estaPerdido"       : "Adoptado",
                     "nombre"     : "Grogu",
-                    "owner"             : "Sara Herrera"
+                    "owner"             : 2
                },
                {
                     "id"                : 13,
@@ -151,9 +151,9 @@
                     "genero"     : "Hembra",
                     "edad"       : "Mayor",
                     "descripcion": "Mili",
-                    "estaPerdido"       : "Adoptado",
+                    "estaPerdido"       : "Adopcion",
                     "nombre"     : "Mili",
-                    "owner"             : "Sara Herrera"
+                    "owner"             : 2
                },
                {
                     "id"                : 14,
@@ -162,9 +162,9 @@
                     "genero"     : "Macho",
                     "edad"       : "Adulto",
                     "descripcion": "Ponchi",
-                    "estaPerdido"       : "Perdido",
+                    "estaPerdido"       : "Adopcion",
                     "nombre"     : "Ponchi",
-                    "owner"             : "Tomas Diaz"
+                    "owner"             : 1
                },
                    {
                     "id"                : 15,
@@ -173,9 +173,9 @@
                     "genero"     : "Hembra",
                     "edad"       : "Mayor",
                     "descripcion": "Violetita",
-                    "estaPerdido"       : "Perdido",
+                    "estaPerdido"       : "Adopcion",
                     "nombre"     : "Violeta",
-                    "owner"             : "Sara Herrera"
+                    "owner"             : 2
                },
                {
                     "id"                : 16,
@@ -184,9 +184,9 @@
                     "genero"     : "Hembra",
                     "edad"       : "Mayor",
                     "descripcion": "Wendy",
-                    "estaPerdido"       : "Perdido",
+                    "estaPerdido"       : "Adopcion",
                     "nombre"     : "Wendy",
-                    "owner"             : "Tomas Diaz"
+                    "owner"             : 1
                }
         ]
 }
