@@ -134,7 +134,7 @@
                       "owner"      : 1
                  },
                  {
-                      "id"         : 12,
+                      "id"         : 8,
                       "imagen"     : "https://i.imgur.com/zrLNzMF.jpeg",
                       "especie"    : "Perro",
                       "genero"     : "Macho",
@@ -145,7 +145,7 @@
                       "owner"      : 2
                  },
                  {
-                      "id"         : 13,
+                      "id"         : 9,
                       "imagen"     : "https://i.imgur.com/dfb1f2z.jpeg",
                       "especie"    : "Perro",
                       "genero"     : "Hembra",
@@ -156,7 +156,7 @@
                       "owner"      : 2
                  },
                  {
-                      "id"         : 14,
+                      "id"         : 10,
                       "imagen"     : "https://i.imgur.com/A0vbbnV.jpeg",
                       "especie"    : "Perro",
                       "genero"     : "Macho",
@@ -167,7 +167,7 @@
                       "owner"      : 1
                  },
                      {
-                      "id"         : 8,
+                      "id"         : 11,
                       "imagen"     : "https://i.imgur.com/au0BJek.jpeg",
                       "especie"    : "Perro",
                       "genero"     : "Hembra",
@@ -178,7 +178,7 @@
                       "owner"      : 2
                  },
                  {
-                      "id"         : 16,
+                      "id"         : 12,
                       "imagen"     : "https://i.imgur.com/YVWuzPj.jpeg",
                       "especie"    : "Perro",
                       "genero"     : "Hembra",
